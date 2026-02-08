@@ -1,10 +1,10 @@
-# Hi 👋, I'm Tanveen Ambrose
-
 <div align="center">
+
+# Hi 👋, I'm Tanveen Ambrose
 
 ## 🚀 MERN Stack Developer | 🎨 Vibe Coding Enthusiast | 💡 Continuous Learner
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Learning+Vibe+Coding;Always+Exploring+New+Tech)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Learning+Vibe+Coding;Always+Exploring+New+Tech" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tanveenambrose&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/tanveenambrose)
 [![GitHub followers](https://img.shields.io/github/followers/tanveenambrose?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/tanveenambrose)
@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👨‍💻 Who Am I?
 
@@ -42,9 +42,9 @@ Status: Building the future, one commit at a time
 I believe in writing clean, maintainable code that makes a difference. Whether it's crafting beautiful UIs or architecting robust backends, I'm all about creating exceptional user experiences.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
 
 ### 🎓 What I'm Up To
 
@@ -103,60 +103,54 @@ if (code === "clean" && design === "beautiful") {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanveenambrose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveenambrose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanveenambrose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveenambrose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=tanveenambrose&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanveenambrose&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  
-<a href="https://github.com/TanveenAmbrose/EcoMoney-TransactionApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="https://github.com/TanveenAmbrose/EcoMoney-TransactionApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="EcoMoney Project" />
+  </a>
+</p>
 
 ### 💡 What I Build
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 #### 🌐 Full Stack Apps
 MERN stack projects with modern UI/UX and scalable architecture
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 #### 🎨 Responsive Designs
-Mobile-first, glassmorphism, dark mode interfaces
+Mobile-first, glassmorphism, and dark mode interfaces
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 #### ⚡ Performance First
 Fast, optimized, SEO-friendly applications
@@ -164,19 +158,19 @@ Fast, optimized, SEO-friendly applications
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 #### 🔐 Secure Systems
 Authentication, authorization, data protection
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 #### 📱 Progressive Web Apps
 Offline-first, installable experiences
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 #### 🚀 Modern Tech
 Latest frameworks and best practices
@@ -201,24 +195,22 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/TanveenAmbrose)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racoctanveen15@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/tanveen-ambrose)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_aila__tanu_)
 
-</div>
+</p>
 
 ---
 
 ## 💭 Random Dev Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
@@ -245,17 +237,17 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### 📊 Profile Summary
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanveenambrose&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanveenambrose&theme=tokyonight" alt="Profile Summary" />
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⚡ Fun Fact
 
@@ -263,11 +255,17 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 **"First, solve the problem. Then, write the code."** - John Johnson
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Footer" />
+</p>
+
+---
+
+<p align="center">
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
@@ -279,4 +277,4 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 👨‍💻 **All my projects:** [https://github.com/TanveenAmbrose](https://github.com/TanveenAmbrose)
 
-</div>
+</p>
