@@ -13,45 +13,59 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
 ## 🎯 About Me
 
-```javascript
-const tanveen = {
-    role: "MERN Stack Developer",
-    location: "🌍 Earth",
-    currentFocus: [
-        "Full Stack Development",
-        "Vibe Coding",
-        "System Design"
-    ],
-    learning: [
-        "Advanced React Patterns",
-        "Microservices",
-        "AI Integration"
-    ],
-    techStack: {
-        frontend: ["React.js", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Express.js", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
-    motto: "Code with passion, build with purpose 🚀"
-};
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who Am I?
+
+🔹 **MERN Stack Developer** passionate about building scalable web applications  
+🔹 **Vibe Coding Enthusiast** exploring AI-powered development  
+🔹 **Problem Solver** who loves turning ideas into reality  
+🔹 **Continuous Learner** always staying ahead of tech trends  
+
+### 🚀 Current Focus
+
+```yaml
+Role: Full Stack Developer
+Specialization: MERN Stack
+Location: 🌍 Earth
+Status: Building the future, one commit at a time
 ```
 
-<br>
+### 💡 What Drives Me
+
+> "Code with passion, build with purpose 🚀"
+
+I believe in writing clean, maintainable code that makes a difference. Whether it's crafting beautiful UIs or architecting robust backends, I'm all about creating exceptional user experiences.
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
 ### 🎓 What I'm Up To
 
-- 🔭 Currently working on **Full Stack MERN Applications**
-- 🌱 Learning **Vibe Coding** and **Advanced System Architecture**
-- 💼 Building scalable and performant web applications
-- 🎨 Crafting beautiful UIs with modern design principles
+- 🔭 Building **Full Stack MERN Applications**
+- 🌱 Learning **Vibe Coding** & **System Architecture**
+- 💼 Creating **scalable & performant** web apps
+- 🎨 Designing **modern UIs** with glassmorphism
 - 📚 Exploring **AI-powered development tools**
-- 💡 Open to collaborating on innovative projects
+- 💡 Open to **innovative collaborations**
 
-<br clear="right"/>
+### 🎯 Tech Philosophy
+
+```javascript
+if (code === "clean" && design === "beautiful") {
+    success = true;
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -107,7 +121,9 @@ const tanveen = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -115,18 +131,59 @@ const tanveen = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![EcoMoney](https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/TanveenAmbrose/EcoMoney-TransactionApp)
+  
+<a href="https://github.com/TanveenAmbrose/EcoMoney-TransactionApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
 
 </div>
 
+<br>
+
 ### 💡 What I Build
 
-- 🌐 **Full Stack Web Applications** - MERN stack projects with modern UI/UX
-- 🎨 **Responsive Designs** - Mobile-first, glassmorphism, and dark mode interfaces
-- ⚡ **Performance Optimized** - Fast, scalable, and SEO-friendly applications
-- 🔐 **Secure Systems** - Authentication, authorization, and data protection
-- 📱 **Progressive Web Apps** - Offline-first, installable web experiences
+<table>
+<tr>
+<td width="33%">
+
+#### 🌐 Full Stack Apps
+MERN stack projects with modern UI/UX and scalable architecture
+
+</td>
+<td width="33%">
+
+#### 🎨 Responsive Designs
+Mobile-first, glassmorphism, dark mode interfaces
+
+</td>
+<td width="33%">
+
+#### ⚡ Performance First
+Fast, optimized, SEO-friendly applications
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🔐 Secure Systems
+Authentication, authorization, data protection
+
+</td>
+<td width="33%">
+
+#### 📱 Progressive Web Apps
+Offline-first, installable experiences
+
+</td>
+<td width="33%">
+
+#### 🚀 Modern Tech
+Latest frameworks and best practices
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -167,12 +224,24 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 ## 🎯 2026 Goals
 
+<table>
+<tr>
+<td width="50%">
+
 - ✅ Master advanced MERN stack patterns
 - ✅ Contribute to open-source projects
 - ✅ Build 10+ production-ready applications
+
+</td>
+<td width="50%">
+
 - ✅ Learn Vibe coding and AI-assisted development
 - ✅ Mentor aspiring developers
 - ✅ Write technical blogs and tutorials
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -193,6 +262,10 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 *I debug with console.log() and I'm not ashamed! 😄*
 
 **"First, solve the problem. Then, write the code."** - John Johnson
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
