@@ -121,18 +121,24 @@ if (code === "clean" && design === "beautiful") {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanveenambrose&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/TanveenAmbrose/EcoMoney-TransactionApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="EcoMoney Project" />
-  </a>
-</p>
+<div align="center">
+
+### 💼 EcoMoney - Transaction Tracking App
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanveenambrose&repo=EcoMoney-TransactionApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/tanveenambrose/EcoMoney-TransactionApp)
+
+**A full-stack MERN application for tracking personal finances with modern UI/UX**
+
+🔗 [View Project](https://github.com/tanveenambrose/EcoMoney-TransactionApp)
+
+</div>
 
 ### 💡 What I Build
 
